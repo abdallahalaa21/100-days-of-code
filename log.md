@@ -1,30 +1,34 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: I will do my challenge after quitting my job as fablab manager and shifting to be Full Stack web developer
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+How it will work ?
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+each day i will read or study about something using pomodoro technique using [Pomo done app](https://pomodoneapp.com/) for traking my progress
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: jan 1, Tuesday
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: I read about html4 and css2.
+**hours of work**: 2 Hours and 30 mins
 
 
-### Day 1: June 27, Monday
+### Day 2: jan 2, Wednesday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**hours of work**: 1 hour
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 3: jan 3, Thursday
+
+**Today's Progress**: I started doing my first challenge clone
+**hours of work**: 2 Hours and 2 mins
+**Link to work:** [Focal portofoilo clone]( https://abdallahalaa21.github.io/portofolio-clone/)
+
+
+### Day 4: jan 4, Friday
+
+**Today's Progress**: I finished it.
+**hours of work**: 2 Hours and 2 mins
+**Link to work:** [Focal portofoilo clone]( https://abdallahalaa21.github.io/portofolio-clone/)
+
+
