@@ -6,29 +6,35 @@ How it will work ?
 
 each day i will read or study about something using pomodoro technique using [Pomo done app](https://pomodoneapp.com/) for traking my progress
 
-### Day 1: jan 1, Tuesday
+### Day 1: Jan 1, Tuesday
 
 **Today's Progress**: I read about html4 and css2.
 **hours of work**: 2 Hours and 30 mins
 
 
-### Day 2: jan 2, Wednesday
+### Day 2: Jan 2, Wednesday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 **hours of work**: 1 hour
 
 
-### Day 3: jan 3, Thursday
+### Day 3: Jan 3, Thursday
 
 **Today's Progress**: I started doing my first challenge clone
 **hours of work**: 2 Hours and 2 mins
 **Link to work:** [Focal portofoilo clone]( https://abdallahalaa21.github.io/portofolio-clone/)
 
 
-### Day 4: jan 4, Friday
+### Day 4: Jan 4, Friday
 
 **Today's Progress**: I finished it.
 **hours of work**: 2 Hours and 2 mins
 **Link to work:** [Focal portofoilo clone]( https://abdallahalaa21.github.io/portofolio-clone/)
+
+
+### Day 5: Jan 6, Sunday
+
+**Today's Progress**: I read about html5 but i didnt study svg and canvas may be later
+**hours of work**: 2 Hours and 30 mins
 
 
